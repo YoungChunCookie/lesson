@@ -2,3 +2,9 @@ aaaaaaaaaaaaaaaaaaa
 bbbbbb
 
 dddd
+
+j k q
+
+git diff     쓰레기
+git difftool  이것도 쓰레기 
+
