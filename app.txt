@@ -8,3 +8,4 @@ j k q
 git diff     쓰레기
 git difftool  이것도 쓰레기 
 
+쿠폰브렌치에서 수정함쓰
