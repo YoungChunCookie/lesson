@@ -9,3 +9,13 @@ git diff     쓰레기
 git difftool  이것도 쓰레기 
 
 쿠폰브렌치에서 수정함쓰
+
+
+merge  종류
+
+3-way merge
+fast-forword merge
+rebase
+squash n merge
+
+
